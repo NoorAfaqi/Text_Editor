@@ -1,1 +1,2 @@
-# ProjectF
+Hi, I'm Noor Afaqi from Fast National University, CFD campus, Computer Science department. My mates and I were given a regular semester project, so we made this Text Editor with some smart features like suggesting words, checking spellings, etc. As it's my first GUI-based project, so, it might not seem that good but good for a freshie:)
+All work that requires the use of a dictionary like suggesting words is fulfilled using Trie Tree and the process of saving/loading the text is done by Huffman Compression.
